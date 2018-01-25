@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <AbsoluteLayout 
+ 	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/loginpic"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+ >
+
+	 <ImageButton
+	     android:id="@+id/button"
+	     android:layout_width="102dp"
+	     android:layout_height="60px"
+	     android:layout_x="70px"
+	     android:layout_y="228px"
+	     android:background="#00000000"
+	     android:src="@drawable/button1" />
+	  
+</AbsoluteLayout> 

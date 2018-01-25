@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   
+    <item android:id="@+id/orgi"
+          android:title="上一回" /> 
+    <item android:id="@+id/next"
+          android:title="下一回" />
+    <item android:id="@+id/back"
+          android:title="返回目录" /> 
+    <item android:id="@+id/exit"
+          android:title="退出程序" />                  
+</menu>
